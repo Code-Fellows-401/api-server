@@ -6,4 +6,7 @@ const { start } = require('./lib/server');
 const app = require('./lib/server');
 const PORT = process.env.PORT || 3000;
 
+// db.drop()
+// 	.then(db.sync())
+// 	.then(() => start(PORT));
 db.sync().then(() => start(PORT));
