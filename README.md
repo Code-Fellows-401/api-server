@@ -30,10 +30,9 @@ Your models should have appropriate field names declared with specific sequelize
 
 ## Links to application deployment\
 
-GET: https://basic-express-server-jake.herokuapp.com/person?name=jake
-
-Heroku: https://basic-express-server-jake.herokuapp.com  
-GitHub: https://github.com/Code-Fellows-401/basic-express-server
+Heroku: https://api-server-jacob.herokuapp.com
+GitHub: https://github.com/Code-Fellows-401/api-server
+GitHub PR: https://github.com/Code-Fellows-401/api-server/pull/1
 
 ## Embedded UML\
 
